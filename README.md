@@ -42,10 +42,10 @@ An innovative e-commerce platform revolutionizing sustainable fashion through pr
 🌐 [www.theseusedjeans.com](https://www.theseusedjeans.com)
 
 **Key Features:**
-- 🔄 Automated daily inventory sync with eBay API
-- 🔍 Advanced search with real-time filtering
-- 📊 Analytics dashboard for sales tracking
-- 📱 Responsive design for all devices
+-  Automated daily inventory sync with eBay API
+-  Advanced search with real-time filtering
+-  Analytics dashboard for sales tracking
+-  Responsive design for all devices
 
 ### [AI Brain Tumor Detector](https://github.com/brycemartin04/Brain-Tumor-Detector) 🧠
 <img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -54,10 +54,10 @@ An innovative e-commerce platform revolutionizing sustainable fashion through pr
 Deep learning solution for detecting brain tumors in MRI scans with 92% precision.
 
 **Highlights:**
-- 🎯 YOLOv11 implementation
-- 📈 Extensive dataset training
-- 🖥️ Interactive web interface
-- 📊 Real-time analysis
+-  YOLOv11 implementation
+-  Extensive dataset training
+-  Interactive web interface
+-  Real-time analysis
 
 ### [Math Visualization Tool](https://github.com/brycemartin04/Visualizer) 📐
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -66,10 +66,10 @@ Deep learning solution for detecting brain tumors in MRI scans with 92% precisio
 Interactive platform for visualizing complex mathematical concepts.
 
 **Features:**
-- ⚡ Real-time animations
-- 🎨 Canvas-based rendering
-- 📱 Mobile-responsive design
-- 🧮 Multiple math concepts
+-  Real-time animations
+-  Canvas-based rendering
+-  Mobile-responsive design
+-  Multiple math concepts
 
 ## 🤝 Let's Connect!
 
